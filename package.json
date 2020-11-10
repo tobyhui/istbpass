@@ -1,0 +1,15 @@
+{
+  "name": "is-tbpass",
+  "version": "1.0.0",
+  "description": "Verify whether the text contains Taobao passphrase, or a Taobao passphrase like message key",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": ["tabao","passphrase","cypher","淘宝","淘宝客"],
+  "author": "toby_hui",
+  "license": "MIT",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}

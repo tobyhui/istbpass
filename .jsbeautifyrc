@@ -1,0 +1,10 @@
+{
+	"brace_style": "none,preserve-inline",
+	"indent_size": 2,
+	"indent_char": "\t",
+	"jslint_happy": true,
+	"css": {
+		"allowed_file_extensions": ["css", "less"],
+		"indent_size": 2
+	}
+}
